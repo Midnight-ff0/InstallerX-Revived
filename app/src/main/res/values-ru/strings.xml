@@ -735,7 +735,7 @@
     <string name="lab_mi_island_outer_glow">Внешнее свечение</string>
     <string name="lab_mi_island_outer_glow_desc">Добавить эффект свечения по краям в стиле системных уведомлений</string>
     <string name="theme_settings_predictive_back_exit_direction">Направление перехода</string>
-    <string name="theme_settings_predictive_back_exit_direction_desc">Выберите направление перехода для возврата назад (только для масштабирования)</string>
+    <string name="theme_settings_predictive_back_exit_direction_desc">Выберите направление перехода для жеста назад</string>
     <string name="theme_settings_predictive_back_animation_ksu_classic">Классический KernelSU</string>
     <string name="theme_settings_predictive_back_exit_direction_follow_gesture">По направлению жеста</string>
     <string name="theme_settings_predictive_back">Эффекты перехода назад</string>
